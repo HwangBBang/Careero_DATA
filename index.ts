@@ -61,7 +61,7 @@ fixMissingNodes(todoData);
 
 fs.writeFileSync("./data-changed.json", JSON.stringify(todoData, null, 1));
 
-// 마크다운 파일 만들기
+// 마크다운 파일 만들기( 노드 생성 )
 
 const createMarkdownFile = (node: TodoNode) => {
   const filename = `./graphs/${node.id}.md`;
