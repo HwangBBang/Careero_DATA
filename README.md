@@ -13,3 +13,7 @@ HUFSUMMER_Hackathon_Careero_Data_Manegement
 ## Activate DataGraph
 
 <img width="1728" alt="C" src="https://github.com/HwangBBang/Careero_DATA/assets/96881651/51245e4e-5add-47b7-9f85-5698c5ce34a4">
+
+
+## Activate DataGraph Animation
+![](https://github.com/HwangBBang/Careero_DATA/blob/main/docs/Activate%20DataGraph_Animation.gif) 
